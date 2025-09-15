@@ -68,3 +68,5 @@ Instructions for Use
       python download_image.py
   
     Once the script finishes, you will find a new file named mi_imagen.jpg in the same directory, which is the downloaded image from the website.
+
+"The code in this repository is based on lessons from Federico Garay's course."
